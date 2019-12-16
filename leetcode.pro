@@ -6,4 +6,5 @@ CONFIG -= qt
 SOURCES += main.cpp
 
 HEADERS += \
+    002_addtwonumbers.h \
     001_twosum.h
