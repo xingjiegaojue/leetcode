@@ -7,4 +7,5 @@ SOURCES += main.cpp
 
 HEADERS += \
     002_addtwonumbers.h \
-    001_twosum.h
+    001_twosum.h \
+    003_longest_substring.h
