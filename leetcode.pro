@@ -6,6 +6,6 @@ CONFIG -= qt
 SOURCES += main.cpp
 
 HEADERS += \
-    002_addtwonumbers.h \
-    001_twosum.h \
-    003_longest_substring.h
+    0001_twosum.h \
+    0002_addtwonumbers.h \
+    0003_longest_substring.h
